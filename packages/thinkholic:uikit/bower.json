@@ -1,0 +1,21 @@
+{
+  "name": "thinkholic:uikit",
+  "version": "0.0.2",
+  "homepage": "https://github.com/thinkholic/meteor-uikit",
+  "authors": [
+    "thinkholic <me@thinkholic.com>"
+  ],
+  "description": "Meteor UIkit package",
+  "keywords": [
+    "meteor",
+    "UIKit",
+    "css",
+    "jQuery",
+    "JavaScript",
+    "UI"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "uikit": "~2.21.0"
+  }
+}
